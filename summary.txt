@@ -1,0 +1,11 @@
+exp_design.txt: A brief description of the experimental design, file_id and associated treatment.
+
+hGAA_co.fata: Codon optimized human GAA CDS from vector TR-Des-hGAA.seq which was used in pompe-NHP study.
+
+Macaca_fascicularis_GAA_201_sequence.fa: GAA CDA downloaded from Ensemble. Transcript ID: ENSMFAT00000031171.1.
+
+fastq_files.txt : link to fastq file download.
+
+TR-Des-hGAA.gbk: Genbank format of the vector plasmid used for generating the AAV product used in the pompe-NHP study.
+
+XYZ9.gbk: Genbank format of the helper plasmid used for generating the AAV product used in the pompe-NHP study.

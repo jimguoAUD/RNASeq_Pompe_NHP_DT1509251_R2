@@ -1,0 +1,12 @@
+ https://dl.dnanex.us/F/D/jz4BPfybkpxGF4qfB4P0Vv77yj87vYGQYv2y5ZXg/1-1_ATCACG_L002_R1_001.fastq.gz 
+ https://dl.dnanex.us/F/D/z2xP3jjpGp1G3Xfzb7F9K5xVq9pY21X9Q1gB20qG/1-1_ATCACG_L002_R2_001.fastq.gz 
+ https://dl.dnanex.us/F/D/YKfG48VyQv4Vp0qPgGBv5jq0bpQjQzQfygfJ2Py3/1-2_ACTTGA_L002_R1_001.fastq.gz 
+ https://dl.dnanex.us/F/D/fBZjvXK5pZ8F391x1J4zQ48k060f48KJQKP04xxV/1-2_ACTTGA_L002_R2_001.fastq.gz 
+ https://dl.dnanex.us/F/D/YxK7fg0J48yp16kqkZQFxYVVXVFQ91G4qV0KByb9/2-1_TAGCTT_L002_R1_001.fastq.gz 
+ https://dl.dnanex.us/F/D/K8v7JP27k1y8kb8Vg4VyQQfPkBkB63gzzf0QZQZ1/2-1_TAGCTT_L002_R2_001.fastq.gz 
+ https://dl.dnanex.us/F/D/GG5yGK1k9vj6YzXXKxff5yBQx9X2yQ6Jz75q08Xp/2-2_GGCTAC_L002_R1_001.fastq.gz 
+ https://dl.dnanex.us/F/D/JbkY4JQK5B4Xx0yP2fPy0g9Qy8bXB01vX1V2Yk21/2-2_GGCTAC_L002_R2_001.fastq.gz 
+ https://dl.dnanex.us/F/D/PvK10Vx6gygB6qf73XbVk3vgGPgxPKB5fg6FBGGX/3-1_GTGGCC_L002_R1_001.fastq.gz 
+ https://dl.dnanex.us/F/D/9fgbYGzvqz0xXbkVV3ZYxpy71q441XfpF5pf1FQK/3-1_GTGGCC_L002_R2_001.fastq.gz 
+ https://dl.dnanex.us/F/D/55fxx09k4KGGZj2GbVXK7Qvp2z7pfFpXpQkZ056P/3-2_GTTTCG_L002_R1_001.fastq.gz 
+ https://dl.dnanex.us/F/D/kjK2fvkvxgFz64xfGpvy1XBbVQf1zvf89kB5yPxZ/3-2_GTTTCG_L002_R2_001.fastq.gz

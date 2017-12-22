@@ -1,0 +1,692 @@
+LOCUS       TR-Des-hG~       7198 bp    DNA   circular     SYN     3-Jun-2015
+Plasmid Name = TR-Des-hGAA
+Database Index Number = 4211
+Created by: B. Byrne
+DEFINITION  University of Florida Plasmid for AAV vector to treat Pompe.
+FEATURES             Location/Qualifiers
+     repeat_region   24..168
+                     /label=_AAV2_ITR
+                     /note="UID-5.  145 bp.  AAV inverted terminal repeat from
+                     wild type AAV serotype 2 genome.  This is full length,
+                     flip form from an AAV vector pTR-UF11 reference plasmid. 
+                     No unique-ifier."
+     CDS             5342..6199
+                     /label=_bla
+                     /note="UID-10.  858 bp.  B-lactamase, confers ampicillin
+                     resistance, no Pst I."
+     misc_feature    6498..6541
+                     /label=High_copy
+                     /note="UID-31.  44 bp.  Tag for High copy plasmid
+                     replication xxpUC18xx"
+     repeat_region   24..64
+                     /label=A_AAV_TR
+                     /note="UID-39.  41 bp.  A section of AAV type 2 ITR."
+     repeat_region   4231..4271
+                     /label=A_AAV_TR
+                     /note="UID-39.  41 bp.  A section of AAV type 2 ITR."
+     repeat_region   65..73
+                     /label=B_AAV_TR
+                     /note="UID-40.  9 bp.  Stem of B stem loop from AAV ITR"
+     repeat_region   4294..4302
+                     /label=B_AAV_TR
+                     /note="UID-40.  9 bp.  Stem of B stem loop from AAV ITR"
+     repeat_region   87..95
+                     /label=C_AAV_TR
+                     /note="UID-41.  9 bp.  Stem of C stem loop from AAV ITR"
+     repeat_region   4272..4280
+                     /label=C_AAV_TR
+                     /note="UID-41.  9 bp.  Stem of C stem loop from AAV ITR"
+     repeat_region   149..168
+                     /label=D_AAV_TR
+                     /note="UID-42.  20 bp.  of AAV ITR, as in serotype 2
+                     wildtype."
+     misc_feature    111..134
+                     /label=RepBS
+                     /note="UID-228.  24 bp.  Rep binding site"
+     misc_feature    4318..4341
+                     /label=RepBS
+                     /note="UID-228.  24 bp.  Rep binding site"
+     source          5143..6349
+                     /dnas_title="TR-Des-hGAA.seq"
+                     /label=Tn3_frag
+                     /note="UID-710.  1207 bp.  Piece of Tn3 found in some
+                     cloning vectors, which carries beta lactamase gene. 
+                     3751..4957 of V00613.1."
+     source          4917..5142
+                     /label=Plasmid_Frag
+                     /note="UID-712.  226 bp.  Fragment of bacterial plasmid
+                     used in some cloning vectors.  Loose match to the ColE1
+                     plasmid NC_001371, 1381..1647.  Not sure if functionally
+                     significant."
+     rep_origin      6350..7148
+                     /label=_ori
+                     /note="UID-713.  799 bp.  Origin of replication for some
+                     high copy bacterial plasmids derived from pMB9.  Loose
+                     match to ColE1 plasmid sequence NC_001371, from
+                     582..1381, which contains the RNA II primer transcript. 
+                     Critical t mutation defining high copy replication is in
+                     lower case."
+     rep_origin      4450..4905
+                     /label=_f1_ori
+                     /note="UID-728.  456 bp.  Bacteriophage f1 origin of
+                     replication.  Corresponds to 5488..5943 of GenBank
+                     J02448.1, with single bp change at position 446 of this
+                     sequence, which is the sequence found in pGEM-T-Easy."
+     source          5325..6349
+                     /label=Tn3_frag
+                     /note="UID-737.  1025 bp.  Fragment of transposon Tn3,
+                     with Betalactamase gene.  Other than two single base pair
+                     changes, corresponds to 3933..4957 of GenBank V00613.1.  "
+     rep_origin      4449..4888
+                     /label=_f1_ori
+                     /note="UID-738.  440 bp.  Bacteriophage f1 origin of
+                     replication, as found in CR2.1, with last base as
+                     unique-ifier.  Corresponds to 5488..5926 of Genbank
+                     J02448.1."
+     source          5211..6349
+                     /label=Tn3_frag
+                     /note="UID-741.  1139 bp.  Piece of Tn3 found in some
+                     cloning vectors, which carries beta lactamase gene. 
+                     3819..4957 of V00613.1, with two single base changes. 
+                     Found in CAGGs plasmids."
+     rep_origin      6350..7022
+                     /label=_ori
+                     /note="UID-933.  673 bp.  Origin of replication for some
+                     high copy bacterial plasmids derived from pMB9.  Loose
+                     match to ColE1 plasmid sequence NC_001371, from
+                     582..1254, which contains the RNA II primer transcript. 
+                     Critical t mutation defining high copy replication is in
+                     lower case."
+     misc_RNA        6409..6962
+                     /label=RNA II
+                     /note="UID-939.  554 bp.  RNA II transcript of high copy
+                     plasmids, which after degradation by RNAseH serves as a
+                     primer for plasmid replication.  Transcription typically
+                     continues beyond this sequence, pairs to the template DNA
+                     as an RNA-DNA hybrid, and is cleaved at the end of this
+                     sequence by RNAseH.  Opposing RNA I transcription causes
+                     premature termination of this RNA downregulating
+                     replication."
+     rep_origin      6963..6987
+                     /label=rep_origin
+                     /note="UID-940.  25 bp.  Plasmid replication begins here,
+                     using an RNA primer derived from the RNA II transcript
+                     cleaved just upstream of this sequence by RNAseH."
+     misc_feature    116..129
+                     /label=_RepBS
+                     /note="UID-1269.  14 bp.  Rep Binding Site, as found in
+                     AAVS1 locus of human genomic DNA."
+     misc_feature    4323..4336
+                     /label=_RepBS
+                     /note="UID-1269.  14 bp.  Rep Binding Site, as found in
+                     AAVS1 locus of human genomic DNA."
+     source          176..517
+                     /label=hDes_Enh
+                     /note="UID-1310.  342 bp.  Human desmin enhancer segment
+                     used in Byrne lab AAV constructs.  Includes -984..-644
+                     relative to start of transcription, according to human
+                     reference genome.  Fused via XhoI site at downstream end
+                     to promoter segment in the compact Desmin promoter. 
+                     Described in Pacak, et al, 2008.  PMID 18811960.  Last
+                     base is unique-ifier for this shorter enhancer segment."
+     source          514..859
+                     /label=hDes_Pro
+                     /note="UID-1311.  345 bp.  Human desmin promoter segment
+                     used in Byrne lab AAV construct.  Ranges -269..+76
+                     relative to transcription, as annotated in Human
+                     Reference genome.  Fused via XhoI site at upstream end to
+                     enhancer segment in the compact Desmin promoter. 
+                     Described in Pacak, et al, 2008.  PMID 18811960.  First
+                     base is unique-ifier for the shorter promoter segment."
+     promoter        176..859
+                     /label=_hDes
+                     /note="UID-1312  684 bp.  More compact version of older
+                     human Desmin promoter, with 376 bp removed from near the
+                     middle relative to older versions used in Mulligan lab
+                     AAV vectors.  Described in Pacak, et al, 2008.  PMID
+                     18811960.  Two segments consist of -984..-629 and
+                     -269..+76 relative to transcription, as annotated in
+                     Reference Genome."
+     CDS             1087..3945
+                     /label=_hGAAco
+                     /note="UID-1313.  2859 bp.  Byrne lab codon optimized
+                     sequence for human acid alpha glucosidase, in AAV vector
+                     for treatment of Pompe disease."
+     polyA_signal    3971..4193
+                     /label=_SV40_LpA
+                     /note="UID-1314.  222 bp.  SV40 late polyA signal, as
+                     found in Byrne lab AAV-Des-hGAA vector for treatment of
+                     Pompe disease.  Corresponds to 2538..2759 of SV40
+                     reference genome NC_001669.  First base is unique-ifier."
+     source          869..1027
+                     /label=_chim_intron
+                     /note="UID-1319.  Chimeric intron, similar to that found
+                     in many Promega expression vectors.  Identical to that
+                     sequence but for an apparent duplication of nucleotides
+                     21..28 of this sequence, which are identical to 29..36
+                     and the second copy is not present in the original
+                     sequence.  Perhaps accidental.  This version generated in
+                     Byrne lab."
+     source          869..984
+                     /label=hBglobin
+                     /note="UID-1320.  Portion of human beta globin gene,
+                     optimized for splicing by modification at 5 positions to
+                     change a total of 6 nucleotides, as well as containing a
+                     duplication of 8 bp in the intron.  This sequence derives
+                     from segment including last 16 bp of exon one and 91 bp
+                     of intron one, plus the 8 bp duplication not present in
+                     the human sequence."
+     source          985..1027
+                     /label=hIg
+                     /note="UID-1321.  Splice acceptor of an immunoglobulin
+                     gene used in chimeric intron present in Promega
+                     expression vectors and B. Byrne lab AAV construct.  Not
+                     sure exactly which intron, but it is hard to know. 
+                     Certainly not in human refseq."
+     intron          886..1026
+                     /label=Ch_Intron
+                     /note="UID-1322.  Intron found in B. Byrne AAV construct
+                     for Pompe disease.  This feature indicates predicted
+                     splice junctions by NNSplice, which matches at least the
+                     human reference genome for the splice donor, and Promega
+                     annotations for the splice acceptor."
+     repeat_region   complement(4211..4355)
+                     /label=_AAV2_ITR
+                     /note="UID-5.  145 bp.  AAV inverted terminal repeat from
+                     wild type AAV serotype 2 genome.  This is full length,
+                     flip form from an AAV vector pTR-UF11 reference plasmid. 
+                     No unique-ifier."
+     repeat_region   complement(108..148)
+                     /label=A_AAV_TR
+                     /note="UID-39.  41 bp.  A section of AAV type 2 ITR."
+     repeat_region   complement(4315..4355)
+                     /label=A_AAV_TR
+                     /note="UID-39.  41 bp.  A section of AAV type 2 ITR."
+     repeat_region   complement(77..85)
+                     /label=B_AAV_TR
+                     /note="UID-40.  9 bp.  Stem of B stem loop from AAV ITR"
+     repeat_region   complement(4306..4314)
+                     /label=B_AAV_TR
+                     /note="UID-40.  9 bp.  Stem of B stem loop from AAV ITR"
+     repeat_region   complement(99..107)
+                     /label=C_AAV_TR
+                     /note="UID-41.  9 bp.  Stem of C stem loop from AAV ITR"
+     repeat_region   complement(4284..4292)
+                     /label=C_AAV_TR
+                     /note="UID-41.  9 bp.  Stem of C stem loop from AAV ITR"
+     repeat_region   complement(4211..4230)
+                     /label=D_AAV_TR
+                     /note="UID-42.  20 bp.  D region of AAV ITR, as in
+                     serotype 2 wildtype."
+     misc_feature    complement(38..61)
+                     /label=RepBS
+                     /note="UID-228.  24 bp.  Rep binding site"
+     misc_feature    complement(4245..4268)
+                     /label=RepBS
+                     /note="UID-228.  24 bp.  Rep binding site"
+     misc_feature    complement(4215..4230)
+                     /label=D_AAV_TRb
+                     /note="UID-431.  16 bp.  D region of AAV ITR, as found in
+                     some full length ITR AAV vectors, such as pAV2-CAGGs-FIX
+                     or AAV-CAGG-FIX.  "
+     misc_RNA        complement(6413..6519)
+                     /label=RNA I
+                     /note="UID-941.  107 bp.  RNA I transcript which inhibits
+                     RNA II transcription and as a result down regulates
+                     subsequent primer formation and plasmid replication.  Low
+                     copy plasmids have a G immediately prior to this
+                     sequence, whereas high copy plasmid have an A, which
+                     attenuates RNA I transcription and thus increases RNA II
+                     transcription and replication."
+     misc_feature    complement(43..56)
+                     /label=_RepBS
+                     /note="UID-1269.  14 bp.  Rep Binding Site, as found in
+                     AAVS1 locus of human genomic DNA."
+     misc_feature    complement(4250..4263)
+                     /label=_RepBS
+                     /note="UID-1269.  14 bp.  Rep Binding Site, as found in
+                     AAVS1 locus of human genomic DNA."
+     primer_bind     complement(5009..5034)
+                     /label=SJVL-120_Max=770
+                     /note="AAV-CAGG sequencing primers for TRs.  Max recorded
+                     sequencing read = 770 bases.  Perfect match Tm = 76.6 C,
+                     although for oligos less than 35 bp, only the 3 prime 17
+                     nt must match to trigger annotation.  The actual sequence
+                     of the primer is GCGTCAGCGG GTGTTGGCGG GTGTCG.  This
+                     primer matches this site completely."
+     primer_bind     134..155
+                     /label=SJVL-351_Max=206
+                     /note="scAAV sequencing primer.  Max recorded sequencing
+                     read = 206 bases.  Perfect match Tm = 58.1 C, although
+                     for oligos less than 35 bp, only the 3 prime 17 nt must
+                     match to trigger annotation.  The actual sequence of the
+                     primer is AGAGGGAGTG GCCAACTCCA TC.  This primer matches
+                     this site perfectly."
+     primer_bind     complement(4224..4245)
+                     /label=SJVL-351_Max=206
+                     /note="scAAV sequencing primer.  Max recorded sequencing
+                     read = 206 bases.  Perfect match Tm = 58.1 C, although
+                     for oligos less than 35 bp, only the 3 prime 17 nt must
+                     match to trigger annotation.  The actual sequence of the
+                     primer is AGAGGGAGTG GCCAACTCCA TC.  This primer matches
+                     this site completely."
+     primer_bind     complement(5194..5228)
+                     /label=SJVL-717_Max=780
+                     /note="Sequencing primer in pBR322, reading towards the
+                     EcoR I site.  Max recorded sequencing read = 780 bases. 
+                     Perfect match Tm = 71.9 C, although for oligos less than
+                     35 bp, only the 3 prime 17 nt must match to trigger
+                     annotation.  The actual sequence of the primer is
+                     CCCGAAAAGT GCCACCTGAC GTCTAAGAAA CCATT.  This primer
+                     matches this site completely."
+     primer_bind     4235..4353
+                     /label=SJVL-786_Max=0
+                     /note="AAV ITR long shot.  Afl III to blunt.  Bottom
+                     Strand.  Max recorded sequencing read = 0 bases.  Perfect
+                     match Tm = 105.6 C, although for oligos less than 35 bp,
+                     only the 3 prime 17 nt must match to trigger annotation. 
+                     The actual sequence of the primer is CCACTCCCTC
+                     TCTGCGCGCT CGCTCGCTCA CTGAGGCCGC CCGGGCAAAG CCCGGGCGTC
+                     GGGCGACCTT TGGTCGCCCG GCCTCAGTGA GCGAGCGAGC GCGCAGAGAG
+                     GGAGTGGCC.  This primer matches this site perfectly."
+     primer_bind     complement(26..144)
+                     /label=SJVL-786_Max=0
+                     /note="AAV ITR long shot.  Afl III to blunt.  Bottom
+                     Strand.  Max recorded sequencing read = 0 bases.  Perfect
+                     match Tm = 105.6 C, although for oligos less than 35 bp,
+                     only the 3 prime 17 nt must match to trigger annotation. 
+                     The actual sequence of the primer is CCACTCCCTC
+                     TCTGCGCGCT CGCTCGCTCA CTGAGGCCGC CCGGGCAAAG CCCGGGCGTC
+                     GGGCGACCTT TGGTCGCCCG GCCTCAGTGA GCGAGCGAGC GCGCAGAGAG
+                     GGAGTGGCC.  This primer matches this site completely."
+     primer_bind     6860..6880
+                     /label=SJVL-787_Max=821
+                     /note="plasmid backbone primer for sequencing
+                     scAAVv2-GFP.  Max recorded sequencing read = 821 bases. 
+                     Perfect match Tm = 57.9 C, although for oligos less than
+                     35 bp, only the 3 prime 17 nt must match to trigger
+                     annotation.  The actual sequence of the primer is
+                     GGGGGAAACG CCTGGTATCT T.  This primer matches this site
+                     perfectly."
+     primer_bind     6821..6842
+                     /label=SJVL-788_Max=550
+                     /note="plasmid backbone primer for sequencing
+                     scAAVv2-GFP.  Max recorded sequencing read = 550 bases. 
+                     Perfect match Tm = 62.9 C, although for oligos less than
+                     35 bp, only the 3 prime 17 nt must match to trigger
+                     annotation.  The actual sequence of the primer is
+                     GGCAGGGTCG GAACAGGAGA GC.  This primer matches this site
+                     perfectly."
+     primer_bind     148..168
+                     /label=SJVL-940_Max=0
+                     /note="AAV2 ITR primer.  Use as left primer to detect
+                     ITR-Rep helper recombinations.  As per Snyder design. 
+                     Max recorded sequencing read = 0 bases.  Perfect match Tm
+                     = 50.8 C, although for oligos less than 35 bp, only the 3
+                     prime 17 nt must match to trigger annotation.  The actual
+                     sequence of the primer is actccatcac taggggttcc t.  This
+                     primer matches this site perfectly."
+     primer_bind     complement(4211..4231)
+                     /label=SJVL-940_Max=0
+                     /note="AAV2 ITR primer.  Use as left primer to detect
+                     ITR-Rep helper recombinations.  As per Snyder design. 
+                     Max recorded sequencing read = 0 bases.  Perfect match Tm
+                     = 50.8 C, although for oligos less than 35 bp, only the 3
+                     prime 17 nt must match to trigger annotation.  The actual
+                     sequence of the primer is actccatcac taggggttcc t.  This
+                     primer matches this site completely."
+     primer_bind     complement(4384..4403)
+                     /label=SJVL-977_Max=797
+                     /note="RSET Sequencing.  Max recorded sequencing read =
+                     797 bases.  Perfect match Tm = 56.3 C, although for
+                     oligos less than 35 bp, only the 3 prime 17 nt must match
+                     to trigger annotation.  The actual sequence of the primer
+                     is CGGGCCTCTT CGCTATTACG .  This primer matches this site
+                     completely."
+     primer_bind     6972..6993
+                     /label=SJVL-1284_Max=746
+                     /note="Sequencing plasmid backbones.  Max recorded
+                     sequencing read = 746 bases.  Perfect match Tm = 61.7 C,
+                     although for oligos less than 35 bp, only the 3 prime 17
+                     nt must match to trigger annotation.  The actual sequence
+                     of the primer is ACGCGGCCTT TTTACGGTTC CT.  This primer
+                     matches this site perfectly."
+     primer_bind     complement(6844..6860)
+                     /label=SJVL-1706_Max=719
+                     /note="Seq of sequencing primers for sequencing
+                     pHGTI-adeno1 and plasmids containing Adenoviral helpers 
+                     Max recorded sequencing read = 719 bases.  Perfect match
+                     Tm = 48.2 C, although for oligos less than 35 bp, only
+                     the 3 prime 17 nt must match to trigger annotation.  The
+                     actual sequence of the primer is CTGGAAGCTC CCTCGTG. 
+                     This primer matches this site completely."
+     primer_bind     complement(6661..6679)
+                     /label=SJVL-1707_Max=761
+                     /note="Seq of sequencing primers for sequencing
+                     pHGTI-adeno1 and plasmids containing Adenoviral helpers 
+                     Max recorded sequencing read = 761 bases.  Perfect match
+                     Tm = 52.4 C, although for oligos less than 35 bp, only
+                     the 3 prime 17 nt must match to trigger annotation.  The
+                     actual sequence of the primer is CTGCGCCTTA TCCGGTAAC. 
+                     This primer matches this site completely."
+     primer_bind     complement(6478..6497)
+                     /label=SJVL-1708_Max=769
+                     /note="Seq of sequencing primers for sequencing
+                     pHGTI-adeno1 and plasmids containing Adenoviral helpers 
+                     Max recorded sequencing read = 769 bases.  Perfect match
+                     Tm = 49.6 C, although for oligos less than 35 bp, only
+                     the 3 prime 17 nt must match to trigger annotation.  The
+                     actual sequence of the primer is TGCTGAAGCC AGTTACCTTC . 
+                     This primer matches this site completely."
+     primer_bind     complement(6296..6315)
+                     /label=SJVL-1709_Max=754
+                     /note="Seq of sequencing primers for sequencing
+                     pHGTI-adeno1 and plasmids containing Adenoviral helpers 
+                     Max recorded sequencing read = 754 bases.  Perfect match
+                     Tm = 46.7 C, although for oligos less than 35 bp, only
+                     the 3 prime 17 nt must match to trigger annotation.  The
+                     actual sequence of the primer is TAAGGGATTT TGGTCATGAG . 
+                     This primer matches this site completely."
+     primer_bind     complement(6118..6136)
+                     /label=SJVL-1710_Max=684
+                     /note="Seq of sequencing primers for sequencing
+                     pHGTI-adeno1 and plasmids containing Adenoviral helpers 
+                     Max recorded sequencing read = 684 bases.  Perfect match
+                     Tm = 50.1 C, although for oligos less than 35 bp, only
+                     the 3 prime 17 nt must match to trigger annotation.  The
+                     actual sequence of the primer is CTGACTCCCC GTCGTGTAG. 
+                     This primer matches this site completely."
+     primer_bind     complement(5936..5954)
+                     /label=SJVL-1711_Max=694
+                     /note="Seq of sequencing primers for sequencing
+                     pHGTI-adeno1 and plasmids containing Adenoviral helpers 
+                     Max recorded sequencing read = 694 bases.  Perfect match
+                     Tm = 51.9 C, although for oligos less than 35 bp, only
+                     the 3 prime 17 nt must match to trigger annotation.  The
+                     actual sequence of the primer is ATTGTTGCCG GGAAGCTAG. 
+                     This primer matches this site completely."
+     primer_bind     complement(5757..5773)
+                     /label=SJVL-1712_Max=703
+                     /note="Seq of sequencing primers for sequencing
+                     pHGTI-adeno1 and plasmids containing Adenoviral helpers 
+                     Max recorded sequencing read = 703 bases.  Perfect match
+                     Tm = 50.8 C, although for oligos less than 35 bp, only
+                     the 3 prime 17 nt must match to trigger annotation.  The
+                     actual sequence of the primer is CTTCGGTCCT CCGATCG. 
+                     This primer matches this site completely."
+     primer_bind     complement(5572..5592)
+                     /label=SJVL-1713_Max=681
+                     /note="Seq of sequencing primers for sequencing
+                     pHGTI-adeno1 and plasmids containing Adenoviral helpers 
+                     Max recorded sequencing read = 681 bases.  Perfect match
+                     Tm = 50.6 C, although for oligos less than 35 bp, only
+                     the 3 prime 17 nt must match to trigger annotation.  The
+                     actual sequence of the primer is GCGTCAATAC GGGATAATAC C.
+                     This primer matches this site completely."
+     primer_bind     complement(5394..5413)
+                     /label=SJVL-1714_Max=781
+                     /note="Seq of sequencing primers for sequencing
+                     pHGTI-adeno1 and plasmids containing Adenoviral helpers 
+                     Max recorded sequencing read = 781 bases.  Perfect match
+                     Tm = 51.5 C, although for oligos less than 35 bp, only
+                     the 3 prime 17 nt must match to trigger annotation.  The
+                     actual sequence of the primer is GTGAGCAAAA ACAGGAAGGC . 
+                     This primer matches this site completely."
+     primer_bind     complement(4822..4841)
+                     /label=SJVL-1721_Max=769
+                     /note="Seq of sequencing primers for sequencing
+                     pHGTI-adeno1 and plasmids containing Adenoviral helpers 
+                     Max recorded sequencing read = 769 bases.  Perfect match
+                     Tm = 52.1 C, although for oligos less than 35 bp, only
+                     the 3 prime 17 nt must match to trigger annotation.  The
+                     actual sequence of the primer is TAACCAATAG GCCGAAATCG . 
+                     This primer matches this site completely."
+     primer_bind     complement(4640..4656)
+                     /label=SJVL-1722_Max=795
+                     /note="Seq of sequencing primers for sequencing
+                     pHGTI-adeno1 and plasmids containing Adenoviral helpers 
+                     Max recorded sequencing read = 795 bases.  Perfect match
+                     Tm = 51.2 C, although for oligos less than 35 bp, only
+                     the 3 prime 17 nt must match to trigger annotation.  The
+                     actual sequence of the primer is TTTTGGGGTC GAGGTGC. 
+                     This primer matches this site completely."
+     primer_bind     complement(4456..4473)
+                     /label=SJVL-1723_Max=759
+                     /note="Seq of sequencing primers for sequencing
+                     pHGTI-adeno1 and plasmids containing Adenoviral helpers 
+                     Max recorded sequencing read = 759 bases.  Perfect match
+                     Tm = 52.3 C, although for oligos less than 35 bp, only
+                     the 3 prime 17 nt must match to trigger annotation.  The
+                     actual sequence of the primer is TTAATGCGCC GCTACAGG. 
+                     This primer matches this site completely."
+     primer_bind     4596..4612
+                     /label=SJVL-1727_Max=796
+                     /note="Seq of sequencing primers for sequencing
+                     pHGTI-adeno1 and plasmids containing Adenoviral helpers 
+                     Max recorded sequencing read = 796 bases.  Perfect match
+                     Tm = 51.7 C, although for oligos less than 35 bp, only
+                     the 3 prime 17 nt must match to trigger annotation.  The
+                     actual sequence of the primer is CTAAATCGGG GGCTCCC. 
+                     This primer matches this site perfectly."
+     primer_bind     4774..4793
+                     /label=SJVL-1728_Max=744
+                     /note="Seq of sequencing primers for sequencing
+                     pHGTI-adeno1 and plasmids containing Adenoviral helpers 
+                     Max recorded sequencing read = 744 bases.  Perfect match
+                     Tm = 48.4 C, although for oligos less than 35 bp, only
+                     the 3 prime 17 nt must match to trigger annotation.  The
+                     actual sequence of the primer is CACTCAACCC TATCTCGGTC . 
+                     This primer matches this site perfectly."
+     primer_bind     5322..5344
+                     /label=SJVL-1735_Max=763
+                     /note="Seq of sequencing primers for sequencing
+                     pHGTI-adeno1 and plasmids containing Adenoviral helpers 
+                     Max recorded sequencing read = 763 bases.  Perfect match
+                     Tm = 47.9 C, although for oligos less than 35 bp, only
+                     the 3 prime 17 nt must match to trigger annotation.  The
+                     actual sequence of the primer is TGAATTGAAA AAGGAAGAGT
+                     ATG.  This primer does not match this site perfectly."
+     primer_bind     5506..5522
+                     /label=SJVL-1736_Max=763
+                     /note="Seq of sequencing primers for sequencing
+                     pHGTI-adeno1 and plasmids containing Adenoviral helpers 
+                     Max recorded sequencing read = 763 bases.  Perfect match
+                     Tm = 51.6 C, although for oligos less than 35 bp, only
+                     the 3 prime 17 nt must match to trigger annotation.  The
+                     actual sequence of the primer is TGAGAGTTTT CGCCCCG. 
+                     This primer matches this site perfectly."
+     primer_bind     5682..5704
+                     /label=SJVL-1737_Max=777
+                     /note="Seq of sequencing primers for sequencing
+                     pHGTI-adeno1 and plasmids containing Adenoviral helpers 
+                     Max recorded sequencing read = 777 bases.  Perfect match
+                     Tm = 48.1 C, although for oligos less than 35 bp, only
+                     the 3 prime 17 nt must match to trigger annotation.  The
+                     actual sequence of the primer is GCATGACAGT AAGAGAATTA
+                     TGC.  This primer matches this site perfectly."
+     primer_bind     5867..5883
+                     /label=SJVL-1738_Max=819
+                     /note="Seq of sequencing primers for sequencing
+                     pHGTI-adeno1 and plasmids containing Adenoviral helpers 
+                     Max recorded sequencing read = 819 bases.  Perfect match
+                     Tm = 50.5 C, although for oligos less than 35 bp, only
+                     the 3 prime 17 nt must match to trigger annotation.  The
+                     actual sequence of the primer is CGTGACACCA CGATGCC. 
+                     This primer matches this site perfectly."
+     primer_bind     6037..6053
+                     /label=SJVL-1739_Max=778
+                     /note="Seq of sequencing primers for sequencing
+                     pHGTI-adeno1 and plasmids containing Adenoviral helpers 
+                     Max recorded sequencing read = 778 bases.  Perfect match
+                     Tm = 50.3 C, although for oligos less than 35 bp, only
+                     the 3 prime 17 nt must match to trigger annotation.  The
+                     actual sequence of the primer is ATCTGGAGCC GGTGAGC. 
+                     This primer matches this site perfectly."
+     primer_bind     6194..6215
+                     /label=SJVL-1740_Max=739
+                     /note="Seq of sequencing primers for sequencing
+                     pHGTI-adeno1 and plasmids containing Adenoviral helpers 
+                     Max recorded sequencing read = 739 bases.  Perfect match
+                     Tm = 49 C, although for oligos less than 35 bp, only the
+                     3 prime 17 nt must match to trigger annotation.  The
+                     actual sequence of the primer is CATTGGTAAC TGTCAGACCA
+                     AG.  This primer matches this site perfectly."
+     primer_bind     6377..6395
+                     /label=SJVL-1741_Max=785
+                     /note="Seq of sequencing primers for sequencing
+                     pHGTI-adeno1 and plasmids containing Adenoviral helpers 
+                     Max recorded sequencing read = 785 bases.  Perfect match
+                     Tm = 52.6 C, although for oligos less than 35 bp, only
+                     the 3 prime 17 nt must match to trigger annotation.  The
+                     actual sequence of the primer is GATCCTTTTT TTCTGCGCG. 
+                     This primer matches this site perfectly."
+     primer_bind     6557..6576
+                     /label=SJVL-1742_Max=785
+                     /note="Seq of sequencing primers for sequencing
+                     pHGTI-adeno1 and plasmids containing Adenoviral helpers 
+                     Max recorded sequencing read = 785 bases.  Perfect match
+                     Tm = 48.7 C, although for oligos less than 35 bp, only
+                     the 3 prime 17 nt must match to trigger annotation.  The
+                     actual sequence of the primer is AACTCTGTAG CACCGCCTAC . 
+                     This primer matches this site perfectly."
+     primer_bind     6738..6758
+                     /label=SJVL-1743_Max=763
+                     /note="Seq of sequencing primers for sequencing
+                     pHGTI-adeno1 and plasmids containing Adenoviral helpers 
+                     Max recorded sequencing read = 763 bases.  Perfect match
+                     Tm = 48.3 C, although for oligos less than 35 bp, only
+                     the 3 prime 17 nt must match to trigger annotation.  The
+                     actual sequence of the primer is CCGAACTGAG ATACCTACAG C.
+                     This primer matches this site perfectly."
+     primer_bind     6920..6939
+                     /label=SJVL-1744_Max=759
+                     /note="Seq of sequencing primers for sequencing
+                     pHGTI-adeno1 and plasmids containing Adenoviral helpers 
+                     Max recorded sequencing read = 759 bases.  Perfect match
+                     Tm = 50.6 C, although for oligos less than 35 bp, only
+                     the 3 prime 17 nt must match to trigger annotation.  The
+                     actual sequence of the primer is CGATTTTTGT GATGCTCGTC . 
+                     This primer matches this site perfectly."
+ORIGIN      
+        1 ctgcaggggg gggggggggg gggttggcca ctccctctct gcgcgctcgc tcgctcactg
+       61 aggccgggcg accaaaggtc gcccgacgcc cgggctttgc ccgggcggcc tcagtgagcg
+      121 agcgagcgcg cagagaggga gtggccaact ccatcactag gggttcctca gatcttaccc
+      181 cctgcccccc acagctcctc tcctgtgcct tgtttcccag ccatgcgttc tcctctataa
+      241 atacccgctc tggtatttgg ggttggcagc tgttgctgcc agggagatgg ttgggttgac
+      301 atgcggctcc tgacaaaaca caaacccctg gtgtgtgtgg gcgtgggtgg tgtgagtagg
+      361 gggatgaatc agggaggggg cgggggaccc agggggcagg agccacacaa agtctgtgcg
+      421 ggggtgggag cgcacatagc aattggaaac tgaaagctta tcagaccctt tctggaaatc
+      481 agcccactgt ttataaactt gaggccccac cctcgagata accagggctg aaagaggccc
+      541 gcctgggggc tggagacatg cttgctgcct gccctggcga aggattggca ggcttgcccg
+      601 tcacaggacc cccgctggct gactcagggg cgcaggcctc ttgcggggga gctggcctcc
+      661 ccgcccccac ggccacgggc cgccctttcc tggcaggaca gcgggatctt gcagctgtca
+      721 ggggagggga ggcgggggct gatgtcagga gggatacaaa tagtgccgac ggctgggggc
+      781 cctgtctccc ctcgccgcat ccactctccg gccggccgcc tgtccgccgc ctcctccgtg
+      841 cgcccgccag cctcgcccgc gccgtcaccg tgaggcactg ggcaggtaag tatcaaagta
+      901 tcaaggttac aagacaggtt taaggagacc aatagaaact gggcttgtcg agacagagaa
+      961 gactcttgcg tttctgatag gcacctattg gtcttactga catccacttt gcctttctct
+     1021 ccacaggcta gcctcgagaa ttcacgcgtg gtacctctag agtcgaccga tatcactagt
+     1081 gccaccatgg gagtgcggca ccccccttgt agccatagac tgctggccgt gtgtgccctg
+     1141 gtgtctctgg ctacagctgc cctgctgggc catatcctgc tgcacgactt tctgctggtg
+     1201 cccagagagc tgagcggcag ctctcccgtg ctggaagaaa cacaccctgc ccatcagcag
+     1261 ggcgccagca gacctggacc tagagatgcc caggcccacc ccggcagacc tagagctgtg
+     1321 cctacccagt gtgacgtgcc ccccaacagc agattcgact gcgcccctga caaggccatc
+     1381 acccaggaac agtgcgaggc cagaggctgc tgctacatcc ctgccaagca gggactgcag
+     1441 ggcgctcaga tgggacagcc ctggtgcttc ttcccaccct cctaccccag ctacaagctg
+     1501 gaaaacctga gcagcagcga gatgggctac accgccaccc tgaccagaac cacccccaca
+     1561 ttcttcccaa aggacatcct gaccctgcgg ctggacgtga tgatggaaac cgagaaccgg
+     1621 ctgcacttca ccatcaagga ccccgccaat cggagatacg aggtgcccct ggaaaccccc
+     1681 cacgtgcaca gtagagcccc cagccctctg tacagcgtgg aattcagcga ggaacccttc
+     1741 ggcgtgatcg tgcggagaca gctggatggc agagtgctgc tgaacaccac cgtggcccct
+     1801 ctgttcttcg ccgaccagtt cctgcagctg agcaccagcc tgcccagcca gtacatcaca
+     1861 ggactggccg agcacctgag ccccctgatg ctgagcacat cctggacccg gatcaccctg
+     1921 tggaacagag atctggcccc tacccctggc gccaacctgt atggcagcca ccctttctac
+     1981 ctggccctgg aagatggcgg atctgcccac ggagtgtttc tgctgaactc caacgctatg
+     2041 gacgtggtgc tgcagcccag ccctgccctg tcttggagat ctacaggcgg catcctggat
+     2101 gtgtacatct ttctgggccc cgagcccaag agcgtggtgc agcagtatct ggatgtcgtg
+     2161 ggctacccct tcatgccccc ttactggggc ctgggattcc acctgtgcag atggggctac
+     2221 tccagcaccg ccatcaccag acaggtggtg gaaaacatga ccagagccca cttcccactg
+     2281 gatgtgcagt ggaacgacct ggactacatg gacagcagac gggacttcac cttcaacaag
+     2341 gacggcttcc gggacttccc cgctatggtg caggaactgc atcagggcgg cagacggtac
+     2401 atgatgatcg tggatcccgc catcagctcc tctggccctg ccggctctta cagaccctac
+     2461 gacgagggcc tgcggagagg cgtgttcatc accaacgaga caggccagcc cctgatcggc
+     2521 aaagtgtggc ctggcagcac agccttcccc gacttcacca atcctaccgc cctggcttgg
+     2581 tgggaggaca tggtggccga gttccacgac caggtgccct tcgacggcat gtggatcgac
+     2641 atgaacgagc ccagcaactt catccggggc agcgaggatg gctgccccaa caacgaactg
+     2701 gaaaatcccc cttacgtgcc cggcgtcgtg ggcggaacac tgcaggccgc tacaatctgt
+     2761 gccagcagcc accagtttct gagcacccac tacaacctgc acaacctgta cggcctgacc
+     2821 gaggccattg ccagccaccg cgctctcgtg aaagccagag gcacacggcc cttcgtgatc
+     2881 agcagaagca cctttgccgg ccacggcaga tacgccggac attggactgg cgacgtgtgg
+     2941 tcctcttggg agcagctggc ctctagcgtg cccgagatcc tgcagttcaa tctgctgggc
+     3001 gtgccactcg tgggcgccga tgtgtgtggc ttcctgggca acacctccga ggaactgtgt
+     3061 gtgcggtgga cacagctggg cgccttctac cctttcatga gaaaccacaa cagcctgctg
+     3121 agcctgcccc aggaacccta cagctttagc gagcctgcac agcaggccat gcggaaggcc
+     3181 ctgacactga gatacgctct gctgccccac ctgtacaccc tgttccatca ggcccatgtg
+     3241 gccggcgaga cagtggccag accactgttt ctggaattcc ccaaggacag ctccacctgg
+     3301 accgtggacc atcagctgct gtggggagag gctctgctga ttaccccagt gctgcaggca
+     3361 ggcaaggccg aagtgaccgg ctactttccc ctgggcactt ggtacgacct gcagaccgtg
+     3421 cctatcgagg ccctgggatc tctgcctcca cctcctgccg ctcctagaga gcctgccatt
+     3481 cactctgagg gccagtgggt cacactgcct gcccccctgg ataccatcaa cgtgcacctg
+     3541 agagccggct acatcatacc actgcaggga cctggcctga ccaccaccga aagcagacag
+     3601 cagccaatgg ccctggccgt ggctctgaca aagggcggag aagcaagagg cgagctgttc
+     3661 tgggacgacg gcgagagcct ggaagtgctg gaaagaggcg cctataccca agtgatcttc
+     3721 ctggcccgga acaacaccat cgtgaacgag ctggtgcgcg tgacctctga aggcgctgga
+     3781 ctgcagctgc agaaagtgac cgtgctggga gtggccacag cccctcagca ggtgctgtct
+     3841 aatggcgtgc ccgtgtccaa cttcacctac agccccgaca ccaaggtgct ggacatctgc
+     3901 gtgtcactgc tgatgggaga gcagtttctg gtgtcctggt gttaatctag agatatcgcg
+     3961 gccgcttcga gcagacatga taagatacat tgatgagttt ggacaaacca caactagaat
+     4021 gcagtgaaaa aaatgcttta tttgtgaaat ttgtgatgct attgctttat ttgtaaccat
+     4081 tataagctgc aataaacaag ttaacaacaa caattgcatt cattttatgt ttcaggttca
+     4141 gggggagatg tgggaggttt tttaaagcaa gtaaaacctc tacaaatgtg gtaaaatcga
+     4201 taaggatctg AGGAACCCCT AGTGATGGAG TTGGCCACTC CCTCTCTGCG CGCTCGCTCG
+     4261 CTCACTGAGG CCGCCCGGGC AAAGCCCGGG CGTCGGGCGA CCTTTGGTCG CCCGGCCTCA
+     4321 GTGAGCGAGC GAGCGCGCAG AGAGGGAGTG GCCAAccccc cccccccccc ccctgcagcc
+     4381 tggcgtaata gcgaagaggc ccgcaccgat cgcccttccc aacagttgcg tagcctgaat
+     4441 ggcgaatgga cgcgccctgt agcggcgcat taagcgcggc gggtgtggtg gttacgcgca
+     4501 gcgtgaccgc tacacttgcc agcgccctag cgcccgctcc tttcgctttc ttcccttcct
+     4561 ttctcgccac gttcgccggc tttccccgtc aagctctaaa tcgggggctc cctttagggt
+     4621 tccgatttag tgctttacgg cacctcgacc ccaaaaaact tgattagggt gatggttcac
+     4681 gtagtgggcc atcgccctga tagacggttt ttcgcccttt gacgttggag tccacgttct
+     4741 ttaatagtgg actcttgttc caaactggaa caacactcaa ccctatctcg gtctattctt
+     4801 ttgatttata agggattttg ccgatttcgg cctattggtt aaaaaatgag ctgatttaac
+     4861 aaaaatttaa cgcgaatttt aacaaaatat taacgcttac aatttcctga tgcggtattt
+     4921 tctccttacg catctgtgcg gtatttcaca ccgcatatgg tgcactctca gtacaatctg
+     4981 ctctgatgcc gcatagttaa gccagccccg acacccgcca acacccgctg acgcgccctg
+     5041 acgggcttgt ctgctcccgg catccgctta cagacaagct gtgaccgtct ccgggagctg
+     5101 catgtgtcag aggttttcac cgtcatcacc gaaacgcgcg agacgaaagg gcctcgtgat
+     5161 acgcctattt ttataggtta atgtcatgat aataatggtt tcttagacgt caggtggcac
+     5221 ttttcgggga aatgtgcgcg gaacccctat ttgtttattt ttctaaatac attcaaatat
+     5281 gtatccgctc atgagacaat aaccctgata aatgcttcaa taatattgaa aaaggaagag
+     5341 tatgagtatt caacatttcc gtgtcgccct tattcccttt tttgcggcat tttgccttcc
+     5401 tgtttttgct cacccagaaa cgctggtgaa agtaaaagat gctgaagatc agttgggtgc
+     5461 acgagtgggt tacatcgaac tggatctcaa cagcggtaag atccttgaga gttttcgccc
+     5521 cgaagaacgt tttccaatga tgagcacttt taaagttctg ctatgtggcg cggtattatc
+     5581 ccgtattgac gccgggcaag agcaactcgg tcgccgcata cactattctc agaatgactt
+     5641 ggttgagtac tcaccagtca cagaaaagca tcttacggat ggcatgacag taagagaatt
+     5701 atgcagtgct gccataacca tgagtgataa cactgcggcc aacttacttc tgacaacgat
+     5761 cggaggaccg aaggagctaa ccgctttttt gcacaacatg ggggatcatg taactcgcct
+     5821 tgatcgttgg gaaccggagc tgaatgaagc cataccaaac gacgagcgtg acaccacgat
+     5881 gcctgtagca atggcaacaa cgttgcgcaa actattaact ggcgaactac ttactctagc
+     5941 ttcccggcaa caattaatag actggatgga ggcggataaa gttgcaggac cacttctgcg
+     6001 ctcggccctt ccggctggct ggtttattgc tgataaatct ggagccggtg agcgtgggtc
+     6061 tcgcggtatc attgcagcac tggggccaga tggtaagccc tcccgtatcg tagttatcta
+     6121 cacgacgggg agtcaggcaa ctatggatga acgaaataga cagatcgctg agataggtgc
+     6181 ctcactgatt aagcattggt aactgtcaga ccaagtttac tcatatatac tttagattga
+     6241 tttaaaactt catttttaat ttaaaaggat ctaggtgaag atcctttttg ataatctcat
+     6301 gaccaaaatc ccttaacgtg agttttcgtt ccactgagcg tcagaccccg tagaaaagat
+     6361 caaaggatct tcttgagatc ctttttttct gcgcgtaatc tgctgcttgc aaacaaaaaa
+     6421 accaccgcta ccagcggtgg tttgtttgcc ggatcaagag ctaccaactc tttttccgaa
+     6481 ggtaactggc ttcagcagag cgcagatacc aaatactgtt cttctagtgt agccgtagtt
+     6541 aggccaccac ttcaagaact ctgtagcacc gcctacatac ctcgctctgc taatcctgtt
+     6601 accagtggct gctgccagtg gcgataagtc gtgtcttacc gggttggact caagacgata
+     6661 gttaccggat aaggcgcagc ggtcgggctg aacggggggt tcgtgcacac agcccagctt
+     6721 ggagcgaacg acctacaccg aactgagata cctacagcgt gagctatgag aaagcgccac
+     6781 gcttcccgaa gggagaaagg cggacaggta tccggtaagc ggcagggtcg gaacaggaga
+     6841 gcgcacgagg gagcttccag ggggaaacgc ctggtatctt tatagtcctg tcgggtttcg
+     6901 ccacctctga cttgagcgtc gatttttgtg atgctcgtca ggggggcgga gcctatggaa
+     6961 aaacgccagc aacgcggcct ttttacggtt cctggccttt tgctggcctt ttgctcacat
+     7021 gttctttcct gcgttatccc ctgattctgt ggataaccgt attaccgcct ttgagtgagc
+     7081 tgataccgct cgccgcagcc gaacgaccga gcgcagcgag tcagtgagcg aggaagcgga
+     7141 agagcgccca atacgcaaac cgcctctccc cgcgcgttgg ccgattcatt aatgcagg
+//
+

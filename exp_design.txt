@@ -1,0 +1,9 @@
+FileName	Treatment	sample
+bam_file1	ctrl	quads
+bam_file2	ctrl	quads
+bam_file3	dosed_1	quads
+bam_file4	dosed_1	quads
+bam_file5	dosed_2	quads
+bam_file6	dosed_2	quads
+
+Note: Three quads samples were sent over to Genewiz including one control and two dosed samples. Each sample was splitted into two and went through separate RNA extraction and library preparation. We therefor have two technical replicates for each sample.
